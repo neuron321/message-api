@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-n=m^k!(5(zsf*&7abyk^d050+#1&pvs_gczkyg$r^2*m0xk71-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', 'smsapi-task.herokuapp.com']
 
 
 # Application definition
