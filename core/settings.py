@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-n=m^k!(5(zsf*&7abyk^d050+#1&pvs_gczkyg$r^2*m0xk71-'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', 'smsapi-task.herokuapp.com']
 
